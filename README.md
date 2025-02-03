@@ -22,9 +22,9 @@ Make sure you have the following installed:
 ### 1. Clone the repository 
 Clone this repository to your local machine:
 
--https://github.com/sainaman2003/Chat-Assistant-for-SQLite-Database.git
--pip install -r requirements.txt
--python app.py
+- https://github.com/sainaman2003/Chat-Assistant-for-SQLite-Database.git
+- pip install -r requirements.txt
+- python app.py
 
 ##Limitations
 
