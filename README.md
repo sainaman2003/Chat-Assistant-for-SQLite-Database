@@ -19,5 +19,27 @@ Make sure you have the following installed:
 - Python 3.8 or higher
 - pip (Python package installer)
 
-### 1. Clone the repository
+### 1. Clone the repository 
 Clone this repository to your local machine:
+
+https://github.com/sainaman2003/Chat-Assistant-for-SQLite-Database.git
+pip install -r requirements.txt
+python app.py
+
+##Limitations
+
+- **High Computational Resources**: The model requires significant computational resources and may take a long time to provide results.
+- **Performance**: Query generation and execution might be slow for larger models or complex queries.
+
+## Suggestions for Improvement
+
+- **Model Optimization**: Optimize the model to reduce resource consumption and improve response time.
+- **Cloud Deployment**: Consider deploying the model on cloud services with better computational power to handle large queries efficiently.
+
+## Hugging Face Deployment
+
+You can also access the model on Hugging Face [here](https://huggingface.co/spaces/sainaman/Sai-Naman-Chat-Assistant-for-SQLite-Database) for testing or deployment in other applications.
+
+
+
+
